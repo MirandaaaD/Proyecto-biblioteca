@@ -1,6 +1,7 @@
-##Es una página web para administrar una lista de libros, crea una interfaz de usuario para administrar una lista de libros, permitiendo a los usuarios buscar, ver, editar y eliminar entradas de libros.
+## Es una página web para administrar una lista de libros, crea una interfaz de usuario para administrar una lista de libros, permitiendo a los usuarios buscar, ver, editar y eliminar entradas de libros.
  
-##1. El script incluye dos archivos PHP, 'conexion.php' y 'barra_lateral.php', que contienen el código de conexión a la base de datos y el contenido de la barra lateral.
+ 
+1. El script incluye dos archivos PHP, 'conexion.php' y 'barra_lateral.php', que contienen el código de conexión a la base de datos y el contenido de la barra lateral.
 
 ##2. Recupera y muestra datos de libros, El script recupera la información de los libros de una tabla de la base de datos llamada 'libros' y la muestra en formato de tabla en la página web.
 
